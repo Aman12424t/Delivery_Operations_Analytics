@@ -70,9 +70,11 @@ The cleaned dataset is stored in the Data/Processed directory.
 + upyter Notebook
 + GitHub
 
-# Project WorkFlow
+## 🔄 Project Workflow
+
 The project follows the workflow below:
 
+```text
 Raw Dataset
      |
      v
@@ -98,10 +100,11 @@ SQL Analysis
      |
      v
 Business Insights
- 
+```
 
-PROJECT STRUCTURE 
+## 📁 Project Structure
 
+```text
 Delivery_Operations_Analytics/
 │
 ├── Data/
@@ -136,3 +139,4 @@ Delivery_Operations_Analytics/
 ├── requirement.txt
 │
 └── README.md
+```
