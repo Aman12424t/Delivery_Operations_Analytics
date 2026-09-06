@@ -47,9 +47,9 @@ The dataset contains delivery operation records with information related to:
 + Return reasons
 + Customer ratings
   
-The raw dataset is stored in the Data/Raw directory.
+The raw dataset is stored in the `Data/Raw` directory.
 
-The cleaned dataset is stored in the Data/Processed directory.
+The cleaned dataset is stored in the `Data/Processed` directory.
 
 # Tools and Technologies
 ## Programming
