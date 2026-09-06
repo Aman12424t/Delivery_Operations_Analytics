@@ -52,25 +52,25 @@ The raw dataset is stored in the Data/Raw directory.
 The cleaned dataset is stored in the Data/Processed directory.
 
 # Tools and Technologies
-# Programming
+## Programming
 + Python
 + Pandas
 + NumPy
 
-# Data Visualization
+## Data Visualization
 + Matplotlib
 + Seaborn
 
-# Database
+## Database
 + Microsoft SQL Server
 + SQL
 
-# Development Tools
+## Development Tools
 + Visual Studio Code
 + upyter Notebook
 + GitHub
 
-## 🔄 Project Workflow
+## Project Workflow
 
 The project follows the workflow below:
 
@@ -102,7 +102,7 @@ SQL Analysis
 Business Insights
 ```
 
-## 📁 Project Structure
+Project Structure
 
 ```text
 Delivery_Operations_Analytics/
