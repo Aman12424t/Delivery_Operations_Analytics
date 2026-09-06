@@ -72,6 +72,7 @@ The cleaned dataset is stored in the Data/Processed directory.
 
 # Project WorkFlow
 The project follows the workflow below:
+
 Raw Dataset
      |
      v
