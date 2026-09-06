@@ -69,3 +69,69 @@ The cleaned dataset is stored in the Data/Processed directory.
 + Visual Studio Code
 + upyter Notebook
 + GitHub
+
+# Project WorkFlow
+The project follows the workflow below:
+Raw Dataset
+     |
+     v
+Data Understanding
+     |
+     v
+Data Cleaning
+     |
+     v
+Cleaned Dataset
+     |
+     v
+Exploratory Data Analysis
+     |
+     v
+Data Visualization
+     |
+     v
+SQL Server
+     |
+     v
+SQL Analysis
+     |
+     v
+Business Insights
+ 
+
+PROJECT STRUCTURE 
+
+Delivery_Operations_Analytics/
+│
+├── Data/
+│   ├── Raw/
+│   └── Processed/
+│
+├── Notebooks/
+│   ├── 01_data_understanding.ipynb
+│   ├── 02_data_cleaning.ipynb
+│   └── 03_eda_visualization.ipynb
+│
+├── Sql/
+│   ├── 01_database.sql
+│   ├── 02_create_table.sql
+│   ├── 03_load_data.py
+│   ├── 04_validation.sql
+│   └── 05_analysis.sql
+│
+├── Visuals/
+│   ├── 1.png
+│   ├── 2.png
+│   ├── 3.png
+│   ├── 4.png
+│   ├── 5.png
+│   ├── 6.png
+│   ├── 7.png
+│   ├── 8.png
+│   └── 9.png
+│
+├── venv/
+│
+├── requirement.txt
+│
+└── README.md
